@@ -1,5 +1,4 @@
 # MCAN
-This repository is the official implementation of Mosaic Convolution-Attention Network for Demosaicing Multispectral Filter Array Images (TCI 2021)
 This repository is the official pytorch implementation of "Mosaic Convolution-Attention Network for Demosaicing Multispectral Filter Array Images" (TCI 2021) (https://ieeexplore.ieee.org/abstract/document/9507356)
 
 ## Requirements
