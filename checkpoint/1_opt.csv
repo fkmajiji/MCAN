@@ -1,0 +1,2 @@
+Epoch,augment_flag,batchSize,cuda,lr,momentum,msfa_size,nEpochs,norm_flag,pretrained,resume,seed,start_epoch,step,threads,train_dir,val_dir,weight_decay
+1,False,32,True,0.002,0.9,4,7500,False,,checkpoint/De_happy_model_epoch_.pth,1651,1,2000,0,G:\dataset\CAVE2\new_train,CAVE_dataset/new_val,0.0001
