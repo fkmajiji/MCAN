@@ -7,7 +7,7 @@ This repository is the official pytorch implementation of "Mosaic Convolution-At
 
 ## Usage
 ### Training
-You can download the training dataset from https://pan.baidu.com/s/1S_kaYiDWJS7iz-oF_oHx1A, the password is 5cul.
+You can download the training dataset from [here](https://pan.baidu.com/s/1kiJZhwqYIwtqINNX-fXrnw), the password is mcan.
 
 usage: main_MCAN.py
 
